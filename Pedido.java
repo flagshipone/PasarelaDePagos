@@ -207,8 +207,3 @@ public class Pedido {
 
 }
 
-// String fechaHoy = "yyyy-MM-dd HH:mm:ssZ";
-// SimpleDateFormat simpleDateFormat = new SimpleDateFormat(fechaHoy);
-
-// String date = simpleDateFormat.format(new Date());
-// System.out.println(date);
